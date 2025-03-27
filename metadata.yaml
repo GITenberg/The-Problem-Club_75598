@@ -1,0 +1,35 @@
+_repo: The-Problem-Club_75598
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Garratt, Arthur
+    gutenberg_agent_id: '58064'
+    url: http://www.gutenberg.org/2009/agents/58064
+creator:
+  author:
+    agent_name: Pain, Barry
+    alias: Pain, Barry Eric Odell
+    birthdate: 1864
+    deathdate: 1928
+    gutenberg_agent_id: '26030'
+    url: http://www.gutenberg.org/2009/agents/26030
+    wikipedia: http://en.wikipedia.org/wiki/Barry_Pain
+description: ''
+gutenberg_issued: '2025-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75598'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/000449546
+pgterms:marc905: 20250309161327pain
+pgterms:marc906: '1919'
+pgterms:marc907: GB
+production_note: Brian Raiter
+publication_note: '  $aLondon :$bW. Collins Sons & Co. Ltd., $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Problem Club
+url: http://www.gutenberg.org/ebooks/75598
