@@ -5,6 +5,9 @@ contributor:
     agent_name: Garratt, Arthur
     gutenberg_agent_id: '58064'
     url: http://www.gutenberg.org/2009/agents/58064
+covers:
+- cover_type: archival
+  image_path: 75598-h/images/cover.jpg
 creator:
   author:
     agent_name: Pain, Barry
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26030
     wikipedia: http://en.wikipedia.org/wiki/Barry_Pain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75598#The-Problem-Club
 gutenberg_issued: '2025-03-12'
 gutenberg_type: Text
 identifiers:
